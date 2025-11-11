@@ -22,16 +22,16 @@ El juego termina cuando el usuario completa la palabra o alcanza el límite de e
 - Interfaz simple e intuitiva  
 
 ## Estructura del proyecto
-src/
-├── assets/
-│ └── Imágenes del ahorcado (0–9)
-├── components/
-│ └── HangImage.tsx # Componente encargado de mostrar la imagen según los intentos
-├── helpers/
-│ ├── letters.ts # Arreglo de letras disponibles
-│ └── getRandomLetter.ts # Generador de palabras aleatorias
-├── App.tsx
-└── index.css
+* src/
+  * ├── assets/
+  * │ └── Imágenes del ahorcado (0–9)
+  * ├── components/
+  * │ └── HangImage.tsx # Componente encargado de mostrar la imagen según los intentos
+  * ├── helpers/
+  * │ ├── letters.ts # Arreglo de letras disponibles
+  * │ └── getRandomLetter.ts # Generador de palabras aleatorias
+  * ├── App.tsx
+  * └── index.css
 
 ## Cómo ejecutarlo
 
