@@ -3,7 +3,7 @@ import HangImage from './components/HangImage';
 import { letters } from './helpers/letters';
 import  getRamdonLetter  from './helpers/getRamdonLetter';
 
-import './App.css';
+import './index.css';
 
 
 function App() {
