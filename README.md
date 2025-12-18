@@ -43,3 +43,6 @@ El juego termina cuando el usuario completa la palabra o alcanza el límite de e
 
 ## Objetivo del proyecto
 Este proyecto fue creado para practicar lógica de juego, manejo de estado en React y organización básica de un proyecto interactivo usando TypeScript.
+
+# Juego online
+* Demo online disponible: https://my-firts-game.netlify.app/
